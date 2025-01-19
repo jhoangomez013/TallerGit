@@ -1,5 +1,5 @@
 function mostrarMensaje(){
-    alert ("Mi página web");
+    alert ("Mi página web, Con conflictos");
 }
 mostrarMensaje();
 
